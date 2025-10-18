@@ -36,15 +36,9 @@ Each chart and KPI card is designed for clarity and storytelling — allowing us
 
 ---
 
-## 📸 Dashboard Preview
-
-![Super Store Dashboard Screenshot](Dashboard_Screenshot.png)
-
----
-
 ## 💬 About This Project
 
-Created by **Binil** as part of a personal portfolio project in **Data Analytics and Visualization**.  
+Created as a part of a personal portfolio project in **Data Analytics and Visualization**.  
 The aim is to demonstrate skills in **data storytelling**, **business insight generation**, and **dashboard design**.
 
 Feel free to ⭐ this repo or share your feedback — I’d love to hear your thoughts!
@@ -52,5 +46,5 @@ Feel free to ⭐ this repo or share your feedback — I’d love to hear your th
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
-📧 Contact: your.email@example.com
+💼 www.linkedin.com/in/binil-john-502a39291 
+📧 Contact: biniljohn234@gmail.com
