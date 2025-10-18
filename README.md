@@ -36,8 +36,10 @@ Each chart and KPI card is designed for clarity and storytelling — allowing us
 
 ---
 ## 📸 Dashboard Preview
+![Super Store Dashboard](Dashboard.png)
+![Super Store Forecast](Forecast.png)
 
-
+---
 ## 💬 About This Project
 
 Created as a part of a personal portfolio project in **Data Analytics and Visualization**.  
