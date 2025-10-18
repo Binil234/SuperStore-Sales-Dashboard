@@ -35,6 +35,8 @@ Each chart and KPI card is designed for clarity and storytelling — allowing us
 - **Power Query** – for ETL operations and data modeling  
 
 ---
+## 📸 Dashboard Preview
+
 
 ## 💬 About This Project
 
